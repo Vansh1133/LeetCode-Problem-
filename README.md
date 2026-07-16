@@ -27,4 +27,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1068-product-sales-analysis-i](https://github.com/Vansh1133/LeetCode-Problem-/tree/main/1068-product-sales-analysis-i/) | Easy |
+## Math
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0007-reverse-integer](https://github.com/Vansh1133/LeetCode-Problem-/tree/main/0007-reverse-integer/) | Medium |
 <!---LeetCode Topics End-->
