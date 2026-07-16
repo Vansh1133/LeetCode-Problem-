@@ -12,14 +12,17 @@
 | ------- | ------- |
 | [0001-two-sum](https://github.com/Vansh1133/LeetCode-Problem-/tree/main/0001-two-sum/) | Easy |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Vansh1133/LeetCode-Problem-/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
+| [0438-find-all-anagrams-in-a-string](https://github.com/Vansh1133/LeetCode-Problem-/tree/main/0438-find-all-anagrams-in-a-string/) | Medium |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Vansh1133/LeetCode-Problem-/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
+| [0438-find-all-anagrams-in-a-string](https://github.com/Vansh1133/LeetCode-Problem-/tree/main/0438-find-all-anagrams-in-a-string/) | Medium |
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Vansh1133/LeetCode-Problem-/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
+| [0438-find-all-anagrams-in-a-string](https://github.com/Vansh1133/LeetCode-Problem-/tree/main/0438-find-all-anagrams-in-a-string/) | Medium |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
