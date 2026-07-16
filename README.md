@@ -23,4 +23,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0198-house-robber](https://github.com/Vansh1133/LeetCode-Problem-/tree/main/0198-house-robber/) | Medium |
+## Database
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1068-product-sales-analysis-i](https://github.com/Vansh1133/LeetCode-Problem-/tree/main/1068-product-sales-analysis-i/) | Easy |
 <!---LeetCode Topics End-->
