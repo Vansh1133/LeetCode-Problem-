@@ -19,6 +19,7 @@
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Vansh1133/LeetCode-Problem-/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Vansh1133/LeetCode-Problem-/tree/main/0438-find-all-anagrams-in-a-string/) | Medium |
+| [1143-longest-common-subsequence](https://github.com/Vansh1133/LeetCode-Problem-/tree/main/1143-longest-common-subsequence/) | Medium |
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -29,6 +30,7 @@
 | ------- | ------- |
 | [0198-house-robber](https://github.com/Vansh1133/LeetCode-Problem-/tree/main/0198-house-robber/) | Medium |
 | [0300-longest-increasing-subsequence](https://github.com/Vansh1133/LeetCode-Problem-/tree/main/0300-longest-increasing-subsequence/) | Medium |
+| [1143-longest-common-subsequence](https://github.com/Vansh1133/LeetCode-Problem-/tree/main/1143-longest-common-subsequence/) | Medium |
 ## Database
 | Problem Name | Difficulty |
 | ------- | ------- |
