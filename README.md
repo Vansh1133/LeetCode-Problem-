@@ -5,6 +5,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/Vansh1133/LeetCode-Problem-/tree/main/0001-two-sum/) | Easy |
+| [0027-remove-element](https://github.com/Vansh1133/LeetCode-Problem-/tree/main/0027-remove-element/) | Easy |
 | [0066-plus-one](https://github.com/Vansh1133/LeetCode-Problem-/tree/main/0066-plus-one/) | Easy |
 | [0198-house-robber](https://github.com/Vansh1133/LeetCode-Problem-/tree/main/0198-house-robber/) | Medium |
 | [0300-longest-increasing-subsequence](https://github.com/Vansh1133/LeetCode-Problem-/tree/main/0300-longest-increasing-subsequence/) | Medium |
@@ -71,4 +72,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0101-symmetric-tree](https://github.com/Vansh1133/LeetCode-Problem-/tree/main/0101-symmetric-tree/) | Easy |
+## Two Pointers
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0027-remove-element](https://github.com/Vansh1133/LeetCode-Problem-/tree/main/0027-remove-element/) | Easy |
 <!---LeetCode Topics End-->
