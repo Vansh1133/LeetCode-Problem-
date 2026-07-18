@@ -7,6 +7,7 @@
 | [0001-two-sum](https://github.com/Vansh1133/LeetCode-Problem-/tree/main/0001-two-sum/) | Easy |
 | [0027-remove-element](https://github.com/Vansh1133/LeetCode-Problem-/tree/main/0027-remove-element/) | Easy |
 | [0066-plus-one](https://github.com/Vansh1133/LeetCode-Problem-/tree/main/0066-plus-one/) | Easy |
+| [0169-majority-element](https://github.com/Vansh1133/LeetCode-Problem-/tree/main/0169-majority-element/) | Easy |
 | [0198-house-robber](https://github.com/Vansh1133/LeetCode-Problem-/tree/main/0198-house-robber/) | Medium |
 | [0300-longest-increasing-subsequence](https://github.com/Vansh1133/LeetCode-Problem-/tree/main/0300-longest-increasing-subsequence/) | Medium |
 ## Hash Table
@@ -14,6 +15,7 @@
 | ------- | ------- |
 | [0001-two-sum](https://github.com/Vansh1133/LeetCode-Problem-/tree/main/0001-two-sum/) | Easy |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Vansh1133/LeetCode-Problem-/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
+| [0169-majority-element](https://github.com/Vansh1133/LeetCode-Problem-/tree/main/0169-majority-element/) | Easy |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Vansh1133/LeetCode-Problem-/tree/main/0438-find-all-anagrams-in-a-string/) | Medium |
 ## String
 | Problem Name | Difficulty |
@@ -76,4 +78,16 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0027-remove-element](https://github.com/Vansh1133/LeetCode-Problem-/tree/main/0027-remove-element/) | Easy |
+## Divide and Conquer
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0169-majority-element](https://github.com/Vansh1133/LeetCode-Problem-/tree/main/0169-majority-element/) | Easy |
+## Sorting
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0169-majority-element](https://github.com/Vansh1133/LeetCode-Problem-/tree/main/0169-majority-element/) | Easy |
+## Counting
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0169-majority-element](https://github.com/Vansh1133/LeetCode-Problem-/tree/main/0169-majority-element/) | Easy |
 <!---LeetCode Topics End-->
