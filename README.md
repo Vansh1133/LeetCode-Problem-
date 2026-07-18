@@ -49,19 +49,26 @@
 ## Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0101-symmetric-tree](https://github.com/Vansh1133/LeetCode-Problem-/tree/main/0101-symmetric-tree/) | Easy |
 | [0110-balanced-binary-tree](https://github.com/Vansh1133/LeetCode-Problem-/tree/main/0110-balanced-binary-tree/) | Easy |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Vansh1133/LeetCode-Problem-/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
 | [0543-diameter-of-binary-tree](https://github.com/Vansh1133/LeetCode-Problem-/tree/main/0543-diameter-of-binary-tree/) | Easy |
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0101-symmetric-tree](https://github.com/Vansh1133/LeetCode-Problem-/tree/main/0101-symmetric-tree/) | Easy |
 | [0110-balanced-binary-tree](https://github.com/Vansh1133/LeetCode-Problem-/tree/main/0110-balanced-binary-tree/) | Easy |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Vansh1133/LeetCode-Problem-/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
 | [0543-diameter-of-binary-tree](https://github.com/Vansh1133/LeetCode-Problem-/tree/main/0543-diameter-of-binary-tree/) | Easy |
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0101-symmetric-tree](https://github.com/Vansh1133/LeetCode-Problem-/tree/main/0101-symmetric-tree/) | Easy |
 | [0110-balanced-binary-tree](https://github.com/Vansh1133/LeetCode-Problem-/tree/main/0110-balanced-binary-tree/) | Easy |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Vansh1133/LeetCode-Problem-/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
 | [0543-diameter-of-binary-tree](https://github.com/Vansh1133/LeetCode-Problem-/tree/main/0543-diameter-of-binary-tree/) | Easy |
+## Breadth-First Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0101-symmetric-tree](https://github.com/Vansh1133/LeetCode-Problem-/tree/main/0101-symmetric-tree/) | Easy |
 <!---LeetCode Topics End-->
