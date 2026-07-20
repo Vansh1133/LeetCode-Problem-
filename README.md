@@ -6,6 +6,7 @@
 | ------- | ------- |
 | [0001-two-sum](https://github.com/Vansh1133/LeetCode-Problem-/tree/main/0001-two-sum/) | Easy |
 | [0027-remove-element](https://github.com/Vansh1133/LeetCode-Problem-/tree/main/0027-remove-element/) | Easy |
+| [0035-search-insert-position](https://github.com/Vansh1133/LeetCode-Problem-/tree/main/0035-search-insert-position/) | Easy |
 | [0066-plus-one](https://github.com/Vansh1133/LeetCode-Problem-/tree/main/0066-plus-one/) | Easy |
 | [0169-majority-element](https://github.com/Vansh1133/LeetCode-Problem-/tree/main/0169-majority-element/) | Easy |
 | [0198-house-robber](https://github.com/Vansh1133/LeetCode-Problem-/tree/main/0198-house-robber/) | Medium |
@@ -53,6 +54,7 @@
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0035-search-insert-position](https://github.com/Vansh1133/LeetCode-Problem-/tree/main/0035-search-insert-position/) | Easy |
 | [0300-longest-increasing-subsequence](https://github.com/Vansh1133/LeetCode-Problem-/tree/main/0300-longest-increasing-subsequence/) | Medium |
 | [0704-binary-search](https://github.com/Vansh1133/LeetCode-Problem-/tree/main/0704-binary-search/) | Easy |
 ## Tree
