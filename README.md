@@ -66,6 +66,7 @@
 | ------- | ------- |
 | [0101-symmetric-tree](https://github.com/Vansh1133/LeetCode-Problem-/tree/main/0101-symmetric-tree/) | Easy |
 | [0110-balanced-binary-tree](https://github.com/Vansh1133/LeetCode-Problem-/tree/main/0110-balanced-binary-tree/) | Easy |
+| [0144-binary-tree-preorder-traversal](https://github.com/Vansh1133/LeetCode-Problem-/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Vansh1133/LeetCode-Problem-/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
 | [0543-diameter-of-binary-tree](https://github.com/Vansh1133/LeetCode-Problem-/tree/main/0543-diameter-of-binary-tree/) | Easy |
 ## Depth-First Search
@@ -73,6 +74,7 @@
 | ------- | ------- |
 | [0101-symmetric-tree](https://github.com/Vansh1133/LeetCode-Problem-/tree/main/0101-symmetric-tree/) | Easy |
 | [0110-balanced-binary-tree](https://github.com/Vansh1133/LeetCode-Problem-/tree/main/0110-balanced-binary-tree/) | Easy |
+| [0144-binary-tree-preorder-traversal](https://github.com/Vansh1133/LeetCode-Problem-/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Vansh1133/LeetCode-Problem-/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
 | [0543-diameter-of-binary-tree](https://github.com/Vansh1133/LeetCode-Problem-/tree/main/0543-diameter-of-binary-tree/) | Easy |
 ## Binary Tree
@@ -80,6 +82,7 @@
 | ------- | ------- |
 | [0101-symmetric-tree](https://github.com/Vansh1133/LeetCode-Problem-/tree/main/0101-symmetric-tree/) | Easy |
 | [0110-balanced-binary-tree](https://github.com/Vansh1133/LeetCode-Problem-/tree/main/0110-balanced-binary-tree/) | Easy |
+| [0144-binary-tree-preorder-traversal](https://github.com/Vansh1133/LeetCode-Problem-/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Vansh1133/LeetCode-Problem-/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
 | [0543-diameter-of-binary-tree](https://github.com/Vansh1133/LeetCode-Problem-/tree/main/0543-diameter-of-binary-tree/) | Easy |
 ## Breadth-First Search
@@ -111,4 +114,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0268-missing-number](https://github.com/Vansh1133/LeetCode-Problem-/tree/main/0268-missing-number/) | Easy |
+## Stack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/Vansh1133/LeetCode-Problem-/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 <!---LeetCode Topics End-->
