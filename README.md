@@ -123,6 +123,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0144-binary-tree-preorder-traversal](https://github.com/Vansh1133/LeetCode-Problem-/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
+| [0225-implement-stack-using-queues](https://github.com/Vansh1133/LeetCode-Problem-/tree/main/0225-implement-stack-using-queues/) | Easy |
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -132,4 +133,12 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0011-container-with-most-water](https://github.com/Vansh1133/LeetCode-Problem-/tree/main/0011-container-with-most-water/) | Medium |
+## Design
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0225-implement-stack-using-queues](https://github.com/Vansh1133/LeetCode-Problem-/tree/main/0225-implement-stack-using-queues/) | Easy |
+## Queue
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0225-implement-stack-using-queues](https://github.com/Vansh1133/LeetCode-Problem-/tree/main/0225-implement-stack-using-queues/) | Easy |
 <!---LeetCode Topics End-->
