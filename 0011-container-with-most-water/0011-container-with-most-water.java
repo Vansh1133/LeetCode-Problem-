@@ -11,7 +11,7 @@ class Solution {
             maximum = Math.max(maximum , product);
             if(height [i] <height[j]){
                 i++;
-            }
+            }   
             else{
                 j--;
             }
