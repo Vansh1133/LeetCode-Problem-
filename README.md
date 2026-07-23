@@ -6,6 +6,7 @@
 | ------- | ------- |
 | [0001-two-sum](https://github.com/Vansh1133/LeetCode-Problem-/tree/main/0001-two-sum/) | Easy |
 | [0011-container-with-most-water](https://github.com/Vansh1133/LeetCode-Problem-/tree/main/0011-container-with-most-water/) | Medium |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/Vansh1133/LeetCode-Problem-/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0027-remove-element](https://github.com/Vansh1133/LeetCode-Problem-/tree/main/0027-remove-element/) | Easy |
 | [0035-search-insert-position](https://github.com/Vansh1133/LeetCode-Problem-/tree/main/0035-search-insert-position/) | Easy |
 | [0066-plus-one](https://github.com/Vansh1133/LeetCode-Problem-/tree/main/0066-plus-one/) | Easy |
@@ -95,6 +96,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0011-container-with-most-water](https://github.com/Vansh1133/LeetCode-Problem-/tree/main/0011-container-with-most-water/) | Medium |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/Vansh1133/LeetCode-Problem-/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0027-remove-element](https://github.com/Vansh1133/LeetCode-Problem-/tree/main/0027-remove-element/) | Easy |
 | [0141-linked-list-cycle](https://github.com/Vansh1133/LeetCode-Problem-/tree/main/0141-linked-list-cycle/) | Easy |
 | [0876-middle-of-the-linked-list](https://github.com/Vansh1133/LeetCode-Problem-/tree/main/0876-middle-of-the-linked-list/) | Easy |
