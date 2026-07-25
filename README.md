@@ -69,6 +69,7 @@
 | ------- | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Vansh1133/LeetCode-Problem-/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
 | [0101-symmetric-tree](https://github.com/Vansh1133/LeetCode-Problem-/tree/main/0101-symmetric-tree/) | Easy |
+| [0104-maximum-depth-of-binary-tree](https://github.com/Vansh1133/LeetCode-Problem-/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0110-balanced-binary-tree](https://github.com/Vansh1133/LeetCode-Problem-/tree/main/0110-balanced-binary-tree/) | Easy |
 | [0144-binary-tree-preorder-traversal](https://github.com/Vansh1133/LeetCode-Problem-/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Vansh1133/LeetCode-Problem-/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
@@ -78,6 +79,7 @@
 | ------- | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Vansh1133/LeetCode-Problem-/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
 | [0101-symmetric-tree](https://github.com/Vansh1133/LeetCode-Problem-/tree/main/0101-symmetric-tree/) | Easy |
+| [0104-maximum-depth-of-binary-tree](https://github.com/Vansh1133/LeetCode-Problem-/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0110-balanced-binary-tree](https://github.com/Vansh1133/LeetCode-Problem-/tree/main/0110-balanced-binary-tree/) | Easy |
 | [0144-binary-tree-preorder-traversal](https://github.com/Vansh1133/LeetCode-Problem-/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Vansh1133/LeetCode-Problem-/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
@@ -87,6 +89,7 @@
 | ------- | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Vansh1133/LeetCode-Problem-/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
 | [0101-symmetric-tree](https://github.com/Vansh1133/LeetCode-Problem-/tree/main/0101-symmetric-tree/) | Easy |
+| [0104-maximum-depth-of-binary-tree](https://github.com/Vansh1133/LeetCode-Problem-/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0110-balanced-binary-tree](https://github.com/Vansh1133/LeetCode-Problem-/tree/main/0110-balanced-binary-tree/) | Easy |
 | [0144-binary-tree-preorder-traversal](https://github.com/Vansh1133/LeetCode-Problem-/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Vansh1133/LeetCode-Problem-/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
@@ -95,6 +98,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0101-symmetric-tree](https://github.com/Vansh1133/LeetCode-Problem-/tree/main/0101-symmetric-tree/) | Easy |
+| [0104-maximum-depth-of-binary-tree](https://github.com/Vansh1133/LeetCode-Problem-/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
