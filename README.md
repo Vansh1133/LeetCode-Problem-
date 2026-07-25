@@ -15,6 +15,7 @@
 | [0198-house-robber](https://github.com/Vansh1133/LeetCode-Problem-/tree/main/0198-house-robber/) | Medium |
 | [0217-contains-duplicate](https://github.com/Vansh1133/LeetCode-Problem-/tree/main/0217-contains-duplicate/) | Easy |
 | [0268-missing-number](https://github.com/Vansh1133/LeetCode-Problem-/tree/main/0268-missing-number/) | Easy |
+| [0283-move-zeroes](https://github.com/Vansh1133/LeetCode-Problem-/tree/main/0283-move-zeroes/) | Easy |
 | [0300-longest-increasing-subsequence](https://github.com/Vansh1133/LeetCode-Problem-/tree/main/0300-longest-increasing-subsequence/) | Medium |
 | [0416-partition-equal-subset-sum](https://github.com/Vansh1133/LeetCode-Problem-/tree/main/0416-partition-equal-subset-sum/) | Medium |
 | [0704-binary-search](https://github.com/Vansh1133/LeetCode-Problem-/tree/main/0704-binary-search/) | Easy |
@@ -110,6 +111,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Vansh1133/LeetCode-Problem-/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0027-remove-element](https://github.com/Vansh1133/LeetCode-Problem-/tree/main/0027-remove-element/) | Easy |
 | [0141-linked-list-cycle](https://github.com/Vansh1133/LeetCode-Problem-/tree/main/0141-linked-list-cycle/) | Easy |
+| [0283-move-zeroes](https://github.com/Vansh1133/LeetCode-Problem-/tree/main/0283-move-zeroes/) | Easy |
 | [0876-middle-of-the-linked-list](https://github.com/Vansh1133/LeetCode-Problem-/tree/main/0876-middle-of-the-linked-list/) | Easy |
 ## Divide and Conquer
 | Problem Name | Difficulty |
