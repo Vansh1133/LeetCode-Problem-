@@ -13,6 +13,7 @@
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Vansh1133/LeetCode-Problem-/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0169-majority-element](https://github.com/Vansh1133/LeetCode-Problem-/tree/main/0169-majority-element/) | Easy |
 | [0198-house-robber](https://github.com/Vansh1133/LeetCode-Problem-/tree/main/0198-house-robber/) | Medium |
+| [0217-contains-duplicate](https://github.com/Vansh1133/LeetCode-Problem-/tree/main/0217-contains-duplicate/) | Easy |
 | [0268-missing-number](https://github.com/Vansh1133/LeetCode-Problem-/tree/main/0268-missing-number/) | Easy |
 | [0300-longest-increasing-subsequence](https://github.com/Vansh1133/LeetCode-Problem-/tree/main/0300-longest-increasing-subsequence/) | Medium |
 | [0416-partition-equal-subset-sum](https://github.com/Vansh1133/LeetCode-Problem-/tree/main/0416-partition-equal-subset-sum/) | Medium |
@@ -24,6 +25,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/Vansh1133/LeetCode-Problem-/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0141-linked-list-cycle](https://github.com/Vansh1133/LeetCode-Problem-/tree/main/0141-linked-list-cycle/) | Easy |
 | [0169-majority-element](https://github.com/Vansh1133/LeetCode-Problem-/tree/main/0169-majority-element/) | Easy |
+| [0217-contains-duplicate](https://github.com/Vansh1133/LeetCode-Problem-/tree/main/0217-contains-duplicate/) | Easy |
 | [0268-missing-number](https://github.com/Vansh1133/LeetCode-Problem-/tree/main/0268-missing-number/) | Easy |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Vansh1133/LeetCode-Problem-/tree/main/0438-find-all-anagrams-in-a-string/) | Medium |
 ## String
@@ -117,6 +119,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0169-majority-element](https://github.com/Vansh1133/LeetCode-Problem-/tree/main/0169-majority-element/) | Easy |
+| [0217-contains-duplicate](https://github.com/Vansh1133/LeetCode-Problem-/tree/main/0217-contains-duplicate/) | Easy |
 | [0268-missing-number](https://github.com/Vansh1133/LeetCode-Problem-/tree/main/0268-missing-number/) | Easy |
 ## Counting
 | Problem Name | Difficulty |
