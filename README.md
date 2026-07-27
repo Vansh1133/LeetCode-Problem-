@@ -9,6 +9,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Vansh1133/LeetCode-Problem-/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0027-remove-element](https://github.com/Vansh1133/LeetCode-Problem-/tree/main/0027-remove-element/) | Easy |
 | [0035-search-insert-position](https://github.com/Vansh1133/LeetCode-Problem-/tree/main/0035-search-insert-position/) | Easy |
+| [0042-trapping-rain-water](https://github.com/Vansh1133/LeetCode-Problem-/tree/main/0042-trapping-rain-water/) | Hard |
 | [0064-minimum-path-sum](https://github.com/Vansh1133/LeetCode-Problem-/tree/main/0064-minimum-path-sum/) | Medium |
 | [0066-plus-one](https://github.com/Vansh1133/LeetCode-Problem-/tree/main/0066-plus-one/) | Easy |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Vansh1133/LeetCode-Problem-/tree/main/0080-remove-duplicates-from-sorted-array-ii/) | Medium |
@@ -46,6 +47,7 @@
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0042-trapping-rain-water](https://github.com/Vansh1133/LeetCode-Problem-/tree/main/0042-trapping-rain-water/) | Hard |
 | [0062-unique-paths](https://github.com/Vansh1133/LeetCode-Problem-/tree/main/0062-unique-paths/) | Medium |
 | [0064-minimum-path-sum](https://github.com/Vansh1133/LeetCode-Problem-/tree/main/0064-minimum-path-sum/) | Medium |
 | [0072-edit-distance](https://github.com/Vansh1133/LeetCode-Problem-/tree/main/0072-edit-distance/) | Medium |
@@ -115,6 +117,7 @@
 | [0011-container-with-most-water](https://github.com/Vansh1133/LeetCode-Problem-/tree/main/0011-container-with-most-water/) | Medium |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Vansh1133/LeetCode-Problem-/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0027-remove-element](https://github.com/Vansh1133/LeetCode-Problem-/tree/main/0027-remove-element/) | Easy |
+| [0042-trapping-rain-water](https://github.com/Vansh1133/LeetCode-Problem-/tree/main/0042-trapping-rain-water/) | Hard |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Vansh1133/LeetCode-Problem-/tree/main/0080-remove-duplicates-from-sorted-array-ii/) | Medium |
 | [0141-linked-list-cycle](https://github.com/Vansh1133/LeetCode-Problem-/tree/main/0141-linked-list-cycle/) | Easy |
 | [0283-move-zeroes](https://github.com/Vansh1133/LeetCode-Problem-/tree/main/0283-move-zeroes/) | Easy |
@@ -144,6 +147,7 @@
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0042-trapping-rain-water](https://github.com/Vansh1133/LeetCode-Problem-/tree/main/0042-trapping-rain-water/) | Hard |
 | [0094-binary-tree-inorder-traversal](https://github.com/Vansh1133/LeetCode-Problem-/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
 | [0144-binary-tree-preorder-traversal](https://github.com/Vansh1133/LeetCode-Problem-/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0225-implement-stack-using-queues](https://github.com/Vansh1133/LeetCode-Problem-/tree/main/0225-implement-stack-using-queues/) | Easy |
@@ -168,4 +172,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0064-minimum-path-sum](https://github.com/Vansh1133/LeetCode-Problem-/tree/main/0064-minimum-path-sum/) | Medium |
+## Monotonic Stack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0042-trapping-rain-water](https://github.com/Vansh1133/LeetCode-Problem-/tree/main/0042-trapping-rain-water/) | Hard |
 <!---LeetCode Topics End-->
