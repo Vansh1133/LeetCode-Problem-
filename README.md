@@ -9,6 +9,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Vansh1133/LeetCode-Problem-/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0027-remove-element](https://github.com/Vansh1133/LeetCode-Problem-/tree/main/0027-remove-element/) | Easy |
 | [0035-search-insert-position](https://github.com/Vansh1133/LeetCode-Problem-/tree/main/0035-search-insert-position/) | Easy |
+| [0064-minimum-path-sum](https://github.com/Vansh1133/LeetCode-Problem-/tree/main/0064-minimum-path-sum/) | Medium |
 | [0066-plus-one](https://github.com/Vansh1133/LeetCode-Problem-/tree/main/0066-plus-one/) | Easy |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Vansh1133/LeetCode-Problem-/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0169-majority-element](https://github.com/Vansh1133/LeetCode-Problem-/tree/main/0169-majority-element/) | Easy |
@@ -45,6 +46,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0062-unique-paths](https://github.com/Vansh1133/LeetCode-Problem-/tree/main/0062-unique-paths/) | Medium |
+| [0064-minimum-path-sum](https://github.com/Vansh1133/LeetCode-Problem-/tree/main/0064-minimum-path-sum/) | Medium |
 | [0072-edit-distance](https://github.com/Vansh1133/LeetCode-Problem-/tree/main/0072-edit-distance/) | Medium |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Vansh1133/LeetCode-Problem-/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0198-house-robber](https://github.com/Vansh1133/LeetCode-Problem-/tree/main/0198-house-robber/) | Medium |
@@ -160,4 +162,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0225-implement-stack-using-queues](https://github.com/Vansh1133/LeetCode-Problem-/tree/main/0225-implement-stack-using-queues/) | Easy |
+## Matrix
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0064-minimum-path-sum](https://github.com/Vansh1133/LeetCode-Problem-/tree/main/0064-minimum-path-sum/) | Medium |
 <!---LeetCode Topics End-->
