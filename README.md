@@ -59,6 +59,7 @@
 ## Database
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0584-find-customer-referee](https://github.com/Vansh1133/LeetCode-Problem-/tree/main/0584-find-customer-referee/) | Easy |
 | [1068-product-sales-analysis-i](https://github.com/Vansh1133/LeetCode-Problem-/tree/main/1068-product-sales-analysis-i/) | Easy |
 | [1757-recyclable-and-low-fat-products](https://github.com/Vansh1133/LeetCode-Problem-/tree/main/1757-recyclable-and-low-fat-products/) | Easy |
 ## Math
