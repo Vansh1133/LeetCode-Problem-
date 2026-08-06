@@ -13,6 +13,7 @@
 | [0064-minimum-path-sum](https://github.com/Vansh1133/LeetCode-Problem-/tree/main/0064-minimum-path-sum/) | Medium |
 | [0066-plus-one](https://github.com/Vansh1133/LeetCode-Problem-/tree/main/0066-plus-one/) | Easy |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Vansh1133/LeetCode-Problem-/tree/main/0080-remove-duplicates-from-sorted-array-ii/) | Medium |
+| [0088-merge-sorted-array](https://github.com/Vansh1133/LeetCode-Problem-/tree/main/0088-merge-sorted-array/) | Easy |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Vansh1133/LeetCode-Problem-/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0169-majority-element](https://github.com/Vansh1133/LeetCode-Problem-/tree/main/0169-majority-element/) | Easy |
 | [0198-house-robber](https://github.com/Vansh1133/LeetCode-Problem-/tree/main/0198-house-robber/) | Medium |
@@ -123,6 +124,7 @@
 | [0027-remove-element](https://github.com/Vansh1133/LeetCode-Problem-/tree/main/0027-remove-element/) | Easy |
 | [0042-trapping-rain-water](https://github.com/Vansh1133/LeetCode-Problem-/tree/main/0042-trapping-rain-water/) | Hard |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Vansh1133/LeetCode-Problem-/tree/main/0080-remove-duplicates-from-sorted-array-ii/) | Medium |
+| [0088-merge-sorted-array](https://github.com/Vansh1133/LeetCode-Problem-/tree/main/0088-merge-sorted-array/) | Easy |
 | [0141-linked-list-cycle](https://github.com/Vansh1133/LeetCode-Problem-/tree/main/0141-linked-list-cycle/) | Easy |
 | [0283-move-zeroes](https://github.com/Vansh1133/LeetCode-Problem-/tree/main/0283-move-zeroes/) | Easy |
 | [0876-middle-of-the-linked-list](https://github.com/Vansh1133/LeetCode-Problem-/tree/main/0876-middle-of-the-linked-list/) | Easy |
@@ -133,6 +135,7 @@
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0088-merge-sorted-array](https://github.com/Vansh1133/LeetCode-Problem-/tree/main/0088-merge-sorted-array/) | Easy |
 | [0169-majority-element](https://github.com/Vansh1133/LeetCode-Problem-/tree/main/0169-majority-element/) | Easy |
 | [0217-contains-duplicate](https://github.com/Vansh1133/LeetCode-Problem-/tree/main/0217-contains-duplicate/) | Easy |
 | [0268-missing-number](https://github.com/Vansh1133/LeetCode-Problem-/tree/main/0268-missing-number/) | Easy |
