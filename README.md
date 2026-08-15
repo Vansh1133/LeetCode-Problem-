@@ -68,6 +68,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0007-reverse-integer](https://github.com/Vansh1133/LeetCode-Problem-/tree/main/0007-reverse-integer/) | Medium |
+| [0009-palindrome-number](https://github.com/Vansh1133/LeetCode-Problem-/tree/main/0009-palindrome-number/) | Easy |
 | [0062-unique-paths](https://github.com/Vansh1133/LeetCode-Problem-/tree/main/0062-unique-paths/) | Medium |
 | [0066-plus-one](https://github.com/Vansh1133/LeetCode-Problem-/tree/main/0066-plus-one/) | Easy |
 | [0069-sqrtx](https://github.com/Vansh1133/LeetCode-Problem-/tree/main/0069-sqrtx/) | Easy |
