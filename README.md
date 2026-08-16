@@ -10,6 +10,7 @@
 | [0027-remove-element](https://github.com/Vansh1133/LeetCode-Problem-/tree/main/0027-remove-element/) | Easy |
 | [0035-search-insert-position](https://github.com/Vansh1133/LeetCode-Problem-/tree/main/0035-search-insert-position/) | Easy |
 | [0042-trapping-rain-water](https://github.com/Vansh1133/LeetCode-Problem-/tree/main/0042-trapping-rain-water/) | Hard |
+| [0048-rotate-image](https://github.com/Vansh1133/LeetCode-Problem-/tree/main/0048-rotate-image/) | Medium |
 | [0064-minimum-path-sum](https://github.com/Vansh1133/LeetCode-Problem-/tree/main/0064-minimum-path-sum/) | Medium |
 | [0066-plus-one](https://github.com/Vansh1133/LeetCode-Problem-/tree/main/0066-plus-one/) | Easy |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Vansh1133/LeetCode-Problem-/tree/main/0080-remove-duplicates-from-sorted-array-ii/) | Medium |
@@ -69,6 +70,7 @@
 | ------- | ------- |
 | [0007-reverse-integer](https://github.com/Vansh1133/LeetCode-Problem-/tree/main/0007-reverse-integer/) | Medium |
 | [0009-palindrome-number](https://github.com/Vansh1133/LeetCode-Problem-/tree/main/0009-palindrome-number/) | Easy |
+| [0048-rotate-image](https://github.com/Vansh1133/LeetCode-Problem-/tree/main/0048-rotate-image/) | Medium |
 | [0062-unique-paths](https://github.com/Vansh1133/LeetCode-Problem-/tree/main/0062-unique-paths/) | Medium |
 | [0066-plus-one](https://github.com/Vansh1133/LeetCode-Problem-/tree/main/0066-plus-one/) | Easy |
 | [0069-sqrtx](https://github.com/Vansh1133/LeetCode-Problem-/tree/main/0069-sqrtx/) | Easy |
@@ -180,6 +182,7 @@
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0048-rotate-image](https://github.com/Vansh1133/LeetCode-Problem-/tree/main/0048-rotate-image/) | Medium |
 | [0064-minimum-path-sum](https://github.com/Vansh1133/LeetCode-Problem-/tree/main/0064-minimum-path-sum/) | Medium |
 ## Monotonic Stack
 | Problem Name | Difficulty |
