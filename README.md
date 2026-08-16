@@ -52,6 +52,7 @@
 | [0042-trapping-rain-water](https://github.com/Vansh1133/LeetCode-Problem-/tree/main/0042-trapping-rain-water/) | Hard |
 | [0062-unique-paths](https://github.com/Vansh1133/LeetCode-Problem-/tree/main/0062-unique-paths/) | Medium |
 | [0064-minimum-path-sum](https://github.com/Vansh1133/LeetCode-Problem-/tree/main/0064-minimum-path-sum/) | Medium |
+| [0070-climbing-stairs](https://github.com/Vansh1133/LeetCode-Problem-/tree/main/0070-climbing-stairs/) | Easy |
 | [0072-edit-distance](https://github.com/Vansh1133/LeetCode-Problem-/tree/main/0072-edit-distance/) | Medium |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Vansh1133/LeetCode-Problem-/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0198-house-robber](https://github.com/Vansh1133/LeetCode-Problem-/tree/main/0198-house-robber/) | Medium |
@@ -75,6 +76,7 @@
 | [0062-unique-paths](https://github.com/Vansh1133/LeetCode-Problem-/tree/main/0062-unique-paths/) | Medium |
 | [0066-plus-one](https://github.com/Vansh1133/LeetCode-Problem-/tree/main/0066-plus-one/) | Easy |
 | [0069-sqrtx](https://github.com/Vansh1133/LeetCode-Problem-/tree/main/0069-sqrtx/) | Easy |
+| [0070-climbing-stairs](https://github.com/Vansh1133/LeetCode-Problem-/tree/main/0070-climbing-stairs/) | Easy |
 | [0268-missing-number](https://github.com/Vansh1133/LeetCode-Problem-/tree/main/0268-missing-number/) | Easy |
 | [0509-fibonacci-number](https://github.com/Vansh1133/LeetCode-Problem-/tree/main/0509-fibonacci-number/) | Easy |
 | [1137-n-th-tribonacci-number](https://github.com/Vansh1133/LeetCode-Problem-/tree/main/1137-n-th-tribonacci-number/) | Easy |
@@ -198,6 +200,7 @@
 ## Memoization
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0070-climbing-stairs](https://github.com/Vansh1133/LeetCode-Problem-/tree/main/0070-climbing-stairs/) | Easy |
 | [0509-fibonacci-number](https://github.com/Vansh1133/LeetCode-Problem-/tree/main/0509-fibonacci-number/) | Easy |
 | [1137-n-th-tribonacci-number](https://github.com/Vansh1133/LeetCode-Problem-/tree/main/1137-n-th-tribonacci-number/) | Easy |
 ## Floyd's Cycle Finding Algorithm
