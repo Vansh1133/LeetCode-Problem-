@@ -57,6 +57,7 @@
 | [0198-house-robber](https://github.com/Vansh1133/LeetCode-Problem-/tree/main/0198-house-robber/) | Medium |
 | [0300-longest-increasing-subsequence](https://github.com/Vansh1133/LeetCode-Problem-/tree/main/0300-longest-increasing-subsequence/) | Medium |
 | [0416-partition-equal-subset-sum](https://github.com/Vansh1133/LeetCode-Problem-/tree/main/0416-partition-equal-subset-sum/) | Medium |
+| [0509-fibonacci-number](https://github.com/Vansh1133/LeetCode-Problem-/tree/main/0509-fibonacci-number/) | Easy |
 | [1137-n-th-tribonacci-number](https://github.com/Vansh1133/LeetCode-Problem-/tree/main/1137-n-th-tribonacci-number/) | Easy |
 | [1143-longest-common-subsequence](https://github.com/Vansh1133/LeetCode-Problem-/tree/main/1143-longest-common-subsequence/) | Medium |
 ## Database
@@ -75,6 +76,7 @@
 | [0066-plus-one](https://github.com/Vansh1133/LeetCode-Problem-/tree/main/0066-plus-one/) | Easy |
 | [0069-sqrtx](https://github.com/Vansh1133/LeetCode-Problem-/tree/main/0069-sqrtx/) | Easy |
 | [0268-missing-number](https://github.com/Vansh1133/LeetCode-Problem-/tree/main/0268-missing-number/) | Easy |
+| [0509-fibonacci-number](https://github.com/Vansh1133/LeetCode-Problem-/tree/main/0509-fibonacci-number/) | Easy |
 | [1137-n-th-tribonacci-number](https://github.com/Vansh1133/LeetCode-Problem-/tree/main/1137-n-th-tribonacci-number/) | Easy |
 ## Binary Search
 | Problem Name | Difficulty |
@@ -192,9 +194,11 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0206-reverse-linked-list](https://github.com/Vansh1133/LeetCode-Problem-/tree/main/0206-reverse-linked-list/) | Easy |
+| [0509-fibonacci-number](https://github.com/Vansh1133/LeetCode-Problem-/tree/main/0509-fibonacci-number/) | Easy |
 ## Memoization
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0509-fibonacci-number](https://github.com/Vansh1133/LeetCode-Problem-/tree/main/0509-fibonacci-number/) | Easy |
 | [1137-n-th-tribonacci-number](https://github.com/Vansh1133/LeetCode-Problem-/tree/main/1137-n-th-tribonacci-number/) | Easy |
 ## Floyd's Cycle Finding Algorithm
 | Problem Name | Difficulty |
