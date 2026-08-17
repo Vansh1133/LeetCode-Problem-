@@ -127,6 +127,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0011-container-with-most-water](https://github.com/Vansh1133/LeetCode-Problem-/tree/main/0011-container-with-most-water/) | Medium |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/Vansh1133/LeetCode-Problem-/tree/main/0019-remove-nth-node-from-end-of-list/) | Medium |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Vansh1133/LeetCode-Problem-/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0027-remove-element](https://github.com/Vansh1133/LeetCode-Problem-/tree/main/0027-remove-element/) | Easy |
 | [0042-trapping-rain-water](https://github.com/Vansh1133/LeetCode-Problem-/tree/main/0042-trapping-rain-water/) | Hard |
@@ -168,6 +169,7 @@
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/Vansh1133/LeetCode-Problem-/tree/main/0019-remove-nth-node-from-end-of-list/) | Medium |
 | [0141-linked-list-cycle](https://github.com/Vansh1133/LeetCode-Problem-/tree/main/0141-linked-list-cycle/) | Easy |
 | [0206-reverse-linked-list](https://github.com/Vansh1133/LeetCode-Problem-/tree/main/0206-reverse-linked-list/) | Easy |
 | [0876-middle-of-the-linked-list](https://github.com/Vansh1133/LeetCode-Problem-/tree/main/0876-middle-of-the-linked-list/) | Easy |
