@@ -24,6 +24,7 @@
 | [0300-longest-increasing-subsequence](https://github.com/Vansh1133/LeetCode-Problem-/tree/main/0300-longest-increasing-subsequence/) | Medium |
 | [0416-partition-equal-subset-sum](https://github.com/Vansh1133/LeetCode-Problem-/tree/main/0416-partition-equal-subset-sum/) | Medium |
 | [0704-binary-search](https://github.com/Vansh1133/LeetCode-Problem-/tree/main/0704-binary-search/) | Easy |
+| [1140-stone-game-ii](https://github.com/Vansh1133/LeetCode-Problem-/tree/main/1140-stone-game-ii/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -60,6 +61,7 @@
 | [0416-partition-equal-subset-sum](https://github.com/Vansh1133/LeetCode-Problem-/tree/main/0416-partition-equal-subset-sum/) | Medium |
 | [0509-fibonacci-number](https://github.com/Vansh1133/LeetCode-Problem-/tree/main/0509-fibonacci-number/) | Easy |
 | [1137-n-th-tribonacci-number](https://github.com/Vansh1133/LeetCode-Problem-/tree/main/1137-n-th-tribonacci-number/) | Easy |
+| [1140-stone-game-ii](https://github.com/Vansh1133/LeetCode-Problem-/tree/main/1140-stone-game-ii/) | Medium |
 | [1143-longest-common-subsequence](https://github.com/Vansh1133/LeetCode-Problem-/tree/main/1143-longest-common-subsequence/) | Medium |
 ## Database
 | Problem Name | Difficulty |
@@ -80,6 +82,7 @@
 | [0268-missing-number](https://github.com/Vansh1133/LeetCode-Problem-/tree/main/0268-missing-number/) | Easy |
 | [0509-fibonacci-number](https://github.com/Vansh1133/LeetCode-Problem-/tree/main/0509-fibonacci-number/) | Easy |
 | [1137-n-th-tribonacci-number](https://github.com/Vansh1133/LeetCode-Problem-/tree/main/1137-n-th-tribonacci-number/) | Easy |
+| [1140-stone-game-ii](https://github.com/Vansh1133/LeetCode-Problem-/tree/main/1140-stone-game-ii/) | Medium |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -229,4 +232,20 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Vansh1133/LeetCode-Problem-/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
+## Minimax
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1140-stone-game-ii](https://github.com/Vansh1133/LeetCode-Problem-/tree/main/1140-stone-game-ii/) | Medium |
+## Prefix Sum
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1140-stone-game-ii](https://github.com/Vansh1133/LeetCode-Problem-/tree/main/1140-stone-game-ii/) | Medium |
+## Game Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1140-stone-game-ii](https://github.com/Vansh1133/LeetCode-Problem-/tree/main/1140-stone-game-ii/) | Medium |
+## Zero-Sum Game
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1140-stone-game-ii](https://github.com/Vansh1133/LeetCode-Problem-/tree/main/1140-stone-game-ii/) | Medium |
 <!---LeetCode Topics End-->
