@@ -215,4 +215,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0416-partition-equal-subset-sum](https://github.com/Vansh1133/LeetCode-Problem-/tree/main/0416-partition-equal-subset-sum/) | Medium |
+## DP on Trees
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0543-diameter-of-binary-tree](https://github.com/Vansh1133/LeetCode-Problem-/tree/main/0543-diameter-of-binary-tree/) | Easy |
 <!---LeetCode Topics End-->
