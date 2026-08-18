@@ -39,6 +39,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Vansh1133/LeetCode-Problem-/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
+| [0020-valid-parentheses](https://github.com/Vansh1133/LeetCode-Problem-/tree/main/0020-valid-parentheses/) | Easy |
 | [0072-edit-distance](https://github.com/Vansh1133/LeetCode-Problem-/tree/main/0072-edit-distance/) | Medium |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Vansh1133/LeetCode-Problem-/tree/main/0438-find-all-anagrams-in-a-string/) | Medium |
 | [1143-longest-common-subsequence](https://github.com/Vansh1133/LeetCode-Problem-/tree/main/1143-longest-common-subsequence/) | Medium |
@@ -165,6 +166,7 @@
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0020-valid-parentheses](https://github.com/Vansh1133/LeetCode-Problem-/tree/main/0020-valid-parentheses/) | Easy |
 | [0042-trapping-rain-water](https://github.com/Vansh1133/LeetCode-Problem-/tree/main/0042-trapping-rain-water/) | Hard |
 | [0094-binary-tree-inorder-traversal](https://github.com/Vansh1133/LeetCode-Problem-/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
 | [0144-binary-tree-preorder-traversal](https://github.com/Vansh1133/LeetCode-Problem-/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
@@ -248,4 +250,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1140-stone-game-ii](https://github.com/Vansh1133/LeetCode-Problem-/tree/main/1140-stone-game-ii/) | Medium |
+## Bracket Sequences
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0020-valid-parentheses](https://github.com/Vansh1133/LeetCode-Problem-/tree/main/0020-valid-parentheses/) | Easy |
 <!---LeetCode Topics End-->
