@@ -23,6 +23,7 @@
 | [0283-move-zeroes](https://github.com/Vansh1133/LeetCode-Problem-/tree/main/0283-move-zeroes/) | Easy |
 | [0300-longest-increasing-subsequence](https://github.com/Vansh1133/LeetCode-Problem-/tree/main/0300-longest-increasing-subsequence/) | Medium |
 | [0416-partition-equal-subset-sum](https://github.com/Vansh1133/LeetCode-Problem-/tree/main/0416-partition-equal-subset-sum/) | Medium |
+| [0496-next-greater-element-i](https://github.com/Vansh1133/LeetCode-Problem-/tree/main/0496-next-greater-element-i/) | Easy |
 | [0704-binary-search](https://github.com/Vansh1133/LeetCode-Problem-/tree/main/0704-binary-search/) | Easy |
 | [1140-stone-game-ii](https://github.com/Vansh1133/LeetCode-Problem-/tree/main/1140-stone-game-ii/) | Medium |
 ## Hash Table
@@ -35,6 +36,7 @@
 | [0217-contains-duplicate](https://github.com/Vansh1133/LeetCode-Problem-/tree/main/0217-contains-duplicate/) | Easy |
 | [0268-missing-number](https://github.com/Vansh1133/LeetCode-Problem-/tree/main/0268-missing-number/) | Easy |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Vansh1133/LeetCode-Problem-/tree/main/0438-find-all-anagrams-in-a-string/) | Medium |
+| [0496-next-greater-element-i](https://github.com/Vansh1133/LeetCode-Problem-/tree/main/0496-next-greater-element-i/) | Easy |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -171,6 +173,7 @@
 | [0094-binary-tree-inorder-traversal](https://github.com/Vansh1133/LeetCode-Problem-/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
 | [0144-binary-tree-preorder-traversal](https://github.com/Vansh1133/LeetCode-Problem-/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0225-implement-stack-using-queues](https://github.com/Vansh1133/LeetCode-Problem-/tree/main/0225-implement-stack-using-queues/) | Easy |
+| [0496-next-greater-element-i](https://github.com/Vansh1133/LeetCode-Problem-/tree/main/0496-next-greater-element-i/) | Easy |
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -199,6 +202,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0042-trapping-rain-water](https://github.com/Vansh1133/LeetCode-Problem-/tree/main/0042-trapping-rain-water/) | Hard |
+| [0496-next-greater-element-i](https://github.com/Vansh1133/LeetCode-Problem-/tree/main/0496-next-greater-element-i/) | Easy |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
